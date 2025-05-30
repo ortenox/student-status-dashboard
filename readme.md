@@ -38,6 +38,10 @@ pip install -r requirement.txt
 - Jalankan file dengan perintah :
     python notebook.py
 
+  Akses dashboard bisa dilakukan dengan mengisikan nilai disisi kiri lalu hasil prediksi 'Status' bisa dilihat dibagian kiri bawah
+  ![image](https://github.com/user-attachments/assets/a68e5972-d78f-4d6e-9c97-09166dfb24aa)
+
+
 ## Business Dashboard
 **Business Dashboard:**[Business Dashboard](https://public.tableau.com/views/GemaEkaPutraPrameswara-StudentStatusDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
